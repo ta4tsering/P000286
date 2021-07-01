@@ -1,0 +1,20 @@
+id: P000286
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W27487
+  title: མན་ངག་གནད་ཀྱི་རྫོང་འཕྲང་གི་སྐོར།
+  author: ''
+  volumes:
+    ea4d44fcf0dd4bd8823f38e9861b677e:
+      image_group_id: I4500
+      title: ''
+      volume_number: 1
+      total_pages: 614
+      base_file: v001.txt
+ebook_metadata:
+  title: མན་ངག་གནད་ཀྱི་རྫོང་འཕྲང་གི་སྐོར།
+  author: ''
+  sku: P000286
+  cover: cover.jpg
+  layers:
+  - pagination
